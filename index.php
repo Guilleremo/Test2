@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="js/main.js">
 <html>
 <head>
 	<title>Guillermo's Test</title>
@@ -10,10 +11,5 @@
 	<div class="Iwao">
 		
 	</div>
-	<?php
-		$( "p" ).on( "click",function() {
-			console.log("click")
-		});
-	?>
 </body>
 </html>
